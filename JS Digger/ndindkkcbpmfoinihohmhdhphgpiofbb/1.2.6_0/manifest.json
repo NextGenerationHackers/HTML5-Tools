@@ -1,0 +1,24 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "Logos/128logo.png",
+      "default_popup": "popup.html",
+      "default_title": "How to use JS Digger"
+   },
+   "description": "List, search for, and modify all JavaScript functions, objects, and variables on a webpage.",
+   "devtools_page": "devtools.html",
+   "icons": {
+      "128": "Logos/128logo.png",
+      "48": "Logos/48logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj1lUyB9y3Ix/ScJbgI2Ghwj3CdJSlyqxeX5L32V8BIEUytOpLBuip/miZosR++8CP7KrV+pfbjr/GDNjiVkJC70oXScZqx+h9Ys7Cc8DJJjaEwXSQqn+EFlFRQrMAodiXhv/M918KMtYuM8LImqH1pe6VdNXtc256rY/qSA+U0FQ3KnlrLqdqR1EkOwSbg0eBJft5kvThIyiJl10e/rSPYkVwlCiyOk5eHAsYagdprgx1i34KGXMTnu/z51Tb3ZrmZsvW/yxdldS2oWS2nWvJZ2HLPvfDXlT1wnfQnpK5qyQ3APqoWEnlASzQiu9Qp5oXB492sSoDxRj73V2pHvwaQIDAQAB",
+   "manifest_version": 2,
+   "name": "JS Digger",
+   "permissions": [ "\u003Call_urls>", "tabs" ],
+   "short_name": "JS Digger",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.6"
+}
