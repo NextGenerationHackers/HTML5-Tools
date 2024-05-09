@@ -1,0 +1,430 @@
+<div class="topup-popup">
+<div class="topup-popup-hdr">
+    <a href="#" class="topup-popup-close" onclick='hideTopupWithLogging({"ab_price_point":"A","ab_bonus_amount":3});'></a>
+</div>
+<div id="tp-content">
+    <div id="credit_blocks_container">
+                    <div class="credit_block_cell">
+                                <div class="credit_boxed_section_spe">
+                                                        <div class="credit_block_amount">
+                        <div style="margin-top:17px;"> 50</div>
+                    </div>
+                    <div class="bonus_gray_text">
+                        +0 Bonus Gold                    </div>
+                    <div class="credit_block_image">
+                        <div class="coin_image">
+                            <img style="height: 134px;" src="https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_image_bonusbox1.png" border="0" />
+                        </div>
+                    </div>
+                    <!--div class="credit_block_new_cost"> &nbsp;</div-->
+                                            <div class="credit_block_new_cost">
+                            &nbsp;
+                        </div>
+
+                        <div class="credit_block_cost">
+                            $4.99                        </div>
+                                                                <div class="bonus_buybutton">
+                            <a href="#" onclick="paymentHelper(340);">
+                                <img src="https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_bonus_buybutton.png" border="0" />
+                            </a>
+                        </div>
+                                    </div>
+                            </div>
+                    <div class="credit_block_cell">
+                                <div class="credit_boxed_section">
+                                                        <div class="credit_block_amount">
+                        <div style="margin-top:17px;"> 100</div>
+                    </div>
+                    <div class="bonus_yellow_text">
+                        +5 Bonus Gold                    </div>
+                    <div class="credit_block_image">
+                        <div class="coin_image">
+                            <img style="height: 154px;" src="https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_image_bonusbox2.png" border="0" />
+                        </div>
+                    </div>
+                    <!--div class="credit_block_new_cost"> &nbsp;</div-->
+                                            <div class="credit_block_new_cost">
+                            &nbsp;
+                        </div>
+
+                        <div class="credit_block_cost">
+                            $9.99                        </div>
+                                                                <div class="bonus_buybutton">
+                            <a href="#" onclick="paymentHelper(341);">
+                                <img src="https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_bonus_buybutton.png" border="0" />
+                            </a>
+                        </div>
+                                    </div>
+                            </div>
+                    <div class="credit_block_cell">
+                                <div class="credit_boxed_section">
+                                                            <img src="https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_icon_mostpopular.png" class="credit_block_special_label_popular" />
+                                        <div class="credit_block_amount">
+                        <div style="margin-top:17px;"> 500</div>
+                    </div>
+                    <div class="bonus_yellow_text">
+                        +50 Bonus Gold                    </div>
+                    <div class="credit_block_image">
+                        <div class="coin_image">
+                            <img style="height: 154px;" src="https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_image_bonusbox3.png" border="0" />
+                        </div>
+                    </div>
+                    <!--div class="credit_block_new_cost"> &nbsp;</div-->
+                                            <div class="credit_block_new_cost">
+                            $49.99                        </div>
+
+                        <div class="credit_block_cost">
+                            <span class="strikethrough"> 54.99 </span>
+                        </div>
+                                                                <div class="bonus_buybutton">
+                            <a href="#" onclick="paymentHelper(342);">
+                                <img src="https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_bonus_buybutton.png" border="0" />
+                            </a>
+                        </div>
+                                    </div>
+                            </div>
+                    <div class="credit_block_cell">
+                                <div class="credit_boxed_section">
+                                                        <div class="credit_block_amount">
+                        <div style="margin-top:17px;"> 1000</div>
+                    </div>
+                    <div class="bonus_yellow_text">
+                        +150 Bonus Gold                    </div>
+                    <div class="credit_block_image">
+                        <div class="coin_image">
+                            <img style="height: 154px;" src="https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_image_bonusbox4.png" border="0" />
+                        </div>
+                    </div>
+                    <!--div class="credit_block_new_cost"> &nbsp;</div-->
+                                            <div class="credit_block_new_cost">
+                            $99.99                        </div>
+
+                        <div class="credit_block_cost">
+                            <span class="strikethrough"> 114.99 </span>
+                        </div>
+                                                                <div class="bonus_buybutton">
+                            <a href="#" onclick="paymentHelper(343);">
+                                <img src="https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_bonus_buybutton.png" border="0" />
+                            </a>
+                        </div>
+                                    </div>
+                            </div>
+                    <div class="credit_block_cell">
+                                <div class="credit_boxed_section">
+                                                            <img src="https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_icon_bestvalue.png" class="credit_block_special_label_value" />
+                                        <div class="credit_block_amount">
+                        <div style="margin-top:17px;"> 2000</div>
+                    </div>
+                    <div class="bonus_yellow_text">
+                        +400 Bonus Gold                    </div>
+                    <div class="credit_block_image">
+                        <div class="coin_image">
+                            <img style="height: 154px;" src="https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_image_bonusbox5.png" border="0" />
+                        </div>
+                    </div>
+                    <!--div class="credit_block_new_cost"> &nbsp;</div-->
+                                            <div class="credit_block_new_cost">
+                            $199.99                        </div>
+
+                        <div class="credit_block_cost">
+                            <span class="strikethrough"> 230.99 </span>
+                        </div>
+                                                                <div class="bonus_buybutton">
+                            <a href="#" onclick="paymentHelper(344);">
+                                <img src="https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_bonus_buybutton.png" border="0" />
+                            </a>
+                        </div>
+                                    </div>
+                            </div>
+            </div>
+            <div id="fb_transaction_block">
+            <div id="redeem_facebook_gc"> <img src="https://wc-fb-cdn7.kixeye.com/images/topup/buygoldbonus_icon_facebook.png"> <a href="#" onclick="cc.redeemFBGiftCard();"><img src="https://prod-fb-vip.sjc.kixeye.com/assets/images/topup/buygoldbonus_button_redeemgiftcard.png" border="0"></a> </div>
+                    </div>
+    </div>
+
+<style type="text/css">
+    .strikethrough {
+        position: relative;
+    }
+    .strikethrough:before {
+        position: absolute;
+        content: "";
+        left: 0;
+        top: 50%;
+        right: 0;
+        border-top: 2px solid;
+        border-color: red;
+
+        -webkit-transform:rotate(-15deg);
+        -moz-transform:rotate(-15deg);
+        -ms-transform:rotate(-15deg);
+        -o-transform:rotate(-15deg);
+        transform:rotate(-15deg);
+    }
+    .topup-popup {
+        position:relative;
+        margin-top:10px;
+        margin-left:auto;
+        margin-right:auto;
+        /*	width:745px;*/
+        width:756px;
+        height:494px;
+        background: url('https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/purchase_gold_bg_facebook.png') no-repeat;
+        font-family:Verdana, Geneva, sans-serif;
+    }
+
+    .topup-popup-hdr {
+        width: 643px;
+        height: 64px;
+        margin:0px;
+        padding: 0px;
+    }
+
+    .store_display {
+        text-align: right;
+        color: #FFF;
+        font-size: 24px;
+        padding-top: 16px;
+        padding-right: 16px;
+        height: 65px;
+        text-shadow: 2px 2px #272727;
+    }
+
+    .topup-popup-close{
+        width:46px;
+        height:39px;
+        cursor:pointer;
+        display:block;
+        position:absolute;
+        top:6px;
+        right:11px;
+        border:0;
+        z-index:11;
+        background:url('https://wc-fb-cdn7.kixeye.com/images/feeddialog/close-button.png') 0px 6px no-repeat;
+    }
+
+    #credit_blocks_container {
+        margin-left:32px;
+        height:347px;
+    }
+
+    .credit_block_cell {
+        width:134px;
+        float:left;
+        margin-right:5px;
+    }
+
+    .credit_block_amount {
+        text-align:center;
+        font-size: 38px;
+        padding-top:16px;
+        clear:both;
+        height:65px;
+        color:#FFF;
+        text-shadow: 2px 2px rgba(39, 39, 39, 1);
+    }
+    .credit_block_amount_sale {
+        text-align:center;
+        font-size: 38px;
+        padding-top:16px;
+        clear:both;
+        height:65px;
+        font-family: Arial;
+        font-weight: bold;
+        font-style: italic;
+        background: -webkit-linear-gradient(#fefb37 55%, #fda228);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .credit_block_image {
+        text-align:center;
+        height:134px;
+        position:relative;
+        left:2px;
+        width:125px;
+        top: -35px;
+    }
+
+    .credit_block_bonus_text {
+        text-align:center;
+    }
+
+    .credit_block_cost {
+        text-align:center;
+        color: #FFF;
+        font-size: 11px;
+        font-weight:bold;
+        text-shadow: 2px 2px #000;
+        margin-bottom:10px;
+    }
+
+    .credit_block_new_cost {
+        text-align:center;
+        /*color: #FEFB37;*/
+        font-size: 15px;
+        font-weight:bold;
+        /*text-shadow: 1px 1px #000;*/
+        margin-bottom:5px;
+        clear:both;
+        background: -webkit-linear-gradient(#fefb37 55%, #fda228);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .credit_boxed_section, .credit_boxed_section_spe, .credit_boxed_section_sale {
+        height:321px;
+        background:url('https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_hud_choiceframe.png') -3px 0px no-repeat;
+        margin-bottom:3px;
+        position:relative;
+    }
+    .credit_boxed_section_spe {
+        background:url('https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/buygold_hud_choiceframe_spe.png') -3px 0px no-repeat !important;
+    }
+    .credit_boxed_section_sale {
+        background:url('https://prod-fb-vip.sjc.kixeye.com/assets/images//topup/panel_bg.png') 3px 0px no-repeat !important;
+    }
+    .bonus_giftbutton {
+        text-align:center;
+    }
+
+    .bonus_buybutton {
+        text-align:center;
+    }
+
+    .credit_block_special_label_popular, .credit_block_special_label_popular_sale {
+        position:absolute;
+        z-index:2000;
+        top:3px;
+        left:-3px;
+    }
+    .credit_block_special_label_popular_sale {
+        top:0px;
+    }
+
+    .credit_block_special_label_value, .credit_block_special_label_value_sale {
+        position:absolute;
+        z-index:2000;
+        top:3px;
+        left:-3px;
+    }
+    .credit_block_special_label_value_sale {
+        top:0px;
+    }
+
+    .coin_image {
+        z-index:1999;
+        position:relative;
+        top:40px;
+    }
+    .bonus_yellow_text {
+        text-align:center;
+        clear:both;
+        text-shadow: 2px 2px rgba(39, 39, 39, 1);
+        text-transform:uppercase;
+        font-size:11px;
+        color:#FBF379;
+        margin-top:11px;
+    }
+    .bonus_gray_text {
+        text-align:center;
+        clear:both;
+        text-shadow: 2px 2px rgba(39, 39, 39, 1);
+        text-transform:uppercase;
+        font-size:11px;
+        color:#8d8d8d;
+        margin-top:11px;
+    }
+    #fb_transaction_block {
+        width:693px;
+        height:63px;
+        margin-left:29px;
+        background:url('https://wc-fb-cdn7.kixeye.com/images/topup/buygold_HUD_Facebookbar.png') 0px 0px no-repeat;
+    }
+
+    #redeem_facebook_gc {
+        float:left;
+        margin-left:25px;
+        margin-top:18px;
+    }
+
+    #convert_facebook {
+        float:right;
+        text-align:right;
+        margin-right:20px;
+        margin-top:10px;
+        color: #10C58D;
+        font-size:14px;
+    }
+    .strike {
+        text-decoration: line-through;
+        color:red;
+        padding:5px 5px;
+    }
+
+    .price {
+        color:#fff;
+    }
+</style>
+
+<script>
+    var variable_cost_params = {};
+
+    function hideTopupWithLogging(additional_data)
+    {
+        props = {
+            'tag' : 'bonus_gold',
+            'action' : 'close_window',
+            'gold_purchased' : 0
+        };
+
+        if(additional_data != null && typeof additional_data === 'object')
+        {
+            var props = jQuery.extend(props, additional_data);
+        }
+
+        cc.logGenericEvent(props);
+        cc.hideTopup();
+    }
+
+    function paymentHelper(block_id)
+    {
+                cc.showFriendSelectGiftGoldDialog(block_id, null, "");
+            }
+
+    function fbcBuyCreditsHelper(block_id){
+        var item_info = {"baseid":"23594589","basetype":"base"};
+        cc.fbcBuyCredits(block_id,'fbcBuyCreditsCallback',0,'fblgo',null,'',variable_cost_params,item_info);
+    }
+
+    function upayBuyCreditsHelper(block_id) {
+        var item_info = {"baseid":"23594589","basetype":"base"};
+        cc.upayBuyCredits(block_id, 'fbcBuyCreditsCallback', 0, 'fblgo', null, '', variable_cost_params, item_info);
+    }
+
+    function KXLBuyCreditsHelper(block_id) {
+        var item_info = {"baseid":"23594589","basetype":"base"};
+        cc.KXLBuyCredits(block_id, 'fbcBuyCreditsCallback', 0, 'fblgo', null, '', variable_cost_params, item_info);
+    }
+</script>
+
+
+<script>
+    function giftGoldHelper(block_id)
+    {
+        if(cc.options.integ == 'kxp')
+        {
+            return false;
+        }
+
+        if(block_id > 0)
+        {
+            cc.hideTopup();
+            cc.showFriendSelectGiftGoldDialog(block_id, null, "");
+        }
+        else
+        {
+            alert("Sorry, you cannot send this amount of Gold to friends. Please choose another amount of Gold to send.");
+        }
+    }
+</script>
